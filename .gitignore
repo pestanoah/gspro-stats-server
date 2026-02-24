@@ -1,0 +1,10 @@
+.DS_STORE
+
+database.sqlite*
+*.sqlite*
+
+node_modules/**
+dev-scripts/node_modules/**
+dev-scripts/*.csv
+.vscode/
+.idea/
